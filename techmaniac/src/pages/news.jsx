@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../components/navbar';
-const Contact = () => {
+const news = () => {
   return (
     <div className="p-4">
       <Navbar />
@@ -10,4 +10,4 @@ const Contact = () => {
   );
 };
 
-export default Contact;
+export default news;
